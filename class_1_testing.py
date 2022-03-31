@@ -12,3 +12,5 @@ x = 10
 print(x*2)
 
 print("Hello world (Pt 2")
+
+print('No more math')
